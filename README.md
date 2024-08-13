@@ -19,5 +19,7 @@ A web application for managing library books.
 I have created and implemented this project such that it was specific to our college departments. Therefore it cannot be easily aletered.
 
 ## License
-
+ Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
