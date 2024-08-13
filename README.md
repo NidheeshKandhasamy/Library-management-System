@@ -16,8 +16,8 @@ A web application for managing library books.
 [Live Demo](http://121.200.48.27:8082/deplib)
 
 ## Installation
-Instructions on how to set up the project locally.
+I have created and implemented this project such that it was specific to our college departments. Therefore it cannot be easily aletered.
 
 ## License
-Specify license information if applicable.
+
 
